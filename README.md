@@ -21,15 +21,5 @@ Trong bối cảnh chuyển đổi số, các hệ thống ứng dụng web đó
 3.  **Triển khai thực nghiệm:**
     * Sử dụng môi trường mô phỏng **DVWA (Damn Vulnerable Web Application)** trên máy ảo (Ubuntu, Apache, PHP, MySQL).
     * Kiểm chứng thực tế các lỗ hổng (SQL Injection, XSS) để minh chứng cho quá trình phân tích rủi ro.
-
-### Danh sách thành viên nhóm
-| STT | Họ và tên | MSSV |
-| :--- | :--- | :--- |
-| 1 | Đào Thị Khánh Chi | 2033230035 |
-| 2 | Lê Ngọc Phương Quỳnh | 2033230247 |
-| 3 | Trương Lê Trúc Quỳnh | 2033230246 |
-| 4 | Tống Lạc Lan Viên | 2033230322 |
-
----
-*GVHD: Ngô Quốc Huy*
+      
 *Ngày thực hiện: 22/04/2026*
