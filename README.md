@@ -2,8 +2,6 @@
 
 ## Phân tích và lập báo cáo đánh giá rủi ro (Risk Assessment)
 
-Đây là tài liệu tiểu luận môn học **Phân tích lỗ hổng và kiểm thử**, thực hiện bởi nhóm sinh viên lớp 14DHBM02, Trường Đại học Công Thương TP. Hồ Chí Minh.
-
 ### Giới thiệu
 Trong bối cảnh chuyển đổi số, các hệ thống ứng dụng web đóng vai trò then chốt nhưng cũng đối mặt với nhiều rủi ro an ninh phức tạp như SQL Injection, XSS, lỗi cấu hình, v.v. Đồ án này tập trung xây dựng quy trình đánh giá rủi ro toàn diện thay vì chỉ tập trung vào việc phát hiện lỗi kỹ thuật.
 
